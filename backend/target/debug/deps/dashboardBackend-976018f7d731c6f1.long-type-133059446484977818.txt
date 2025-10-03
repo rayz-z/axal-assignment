@@ -1,0 +1,1 @@
+fn(axum::extract::State<AppState>) -> impl Future<Output = Json<Vec<TVLResponse>>> {get_tvl}: Handler<_, _>

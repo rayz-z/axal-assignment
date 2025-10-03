@@ -1,0 +1,11 @@
+/Users/raymeind/projects/axal-rust/target/debug/deps/libbitflags-1f71d2ac15f79617.rmeta: /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/lib.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/iter.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/parser.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/traits.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/public.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/internal.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/external.rs
+
+/Users/raymeind/projects/axal-rust/target/debug/deps/bitflags-1f71d2ac15f79617.d: /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/lib.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/iter.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/parser.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/traits.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/public.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/internal.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/external.rs
+
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/lib.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/iter.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/parser.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/traits.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/public.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/internal.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.9.4/src/external.rs:

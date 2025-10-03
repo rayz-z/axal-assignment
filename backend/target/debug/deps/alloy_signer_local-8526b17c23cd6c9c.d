@@ -1,0 +1,10 @@
+/Users/raymeind/projects/axal-rust/target/debug/deps/liballoy_signer_local-8526b17c23cd6c9c.rmeta: /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/lib.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/error.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/private_key.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/../README.md
+
+/Users/raymeind/projects/axal-rust/target/debug/deps/liballoy_signer_local-8526b17c23cd6c9c.rlib: /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/lib.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/error.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/private_key.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/../README.md
+
+/Users/raymeind/projects/axal-rust/target/debug/deps/alloy_signer_local-8526b17c23cd6c9c.d: /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/lib.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/error.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/private_key.rs /Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/../README.md
+
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/lib.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/error.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/private_key.rs:
+/Users/raymeind/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/alloy-signer-local-1.0.36/src/../README.md:

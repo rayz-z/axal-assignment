@@ -1,0 +1,2 @@
+CallBuilder<&FillProvider<JoinFill<alloy_provider::builder::Identity, JoinFill<GasFiller, JoinFill<BlobGasFiller, JoinFill<NonceFiller, ChainIdFiller>>>>, RootProvider>, PhantomData<totalAssetsCall>>
+CallBuilder<&FillProvider<JoinFill<alloy::providers::Identity, JoinFill<GasFiller, JoinFill<BlobGasFiller, JoinFill<NonceFiller, ChainIdFiller>>>>, RootProvider>, PhantomData<totalAssetsCall>>
